@@ -1,0 +1,2 @@
+This is my first file
+whenever we create a repository a branch called master ic created by default.
